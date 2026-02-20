@@ -98,7 +98,7 @@ export const premiumReports: PremiumReport[] = [
     date: '2026-02-05',
     summary: 'A framework for reading central bank balance sheets, money market plumbing, and fiscal cash dynamics as one liquidity system.',
     preview:
-      'Premium readers get our integrated liquidity scorecard, including a weekly checklist that links reserve conditions, collateral spreads, and fiscal drawdowns to actionable risk posture shifts.',
+      'Human preview: Premium readers get our integrated liquidity scorecard. Licensed AI view: the full report includes a weekly checklist linking reserve conditions, collateral spreads, and fiscal drawdowns to actionable risk posture shifts.',
     thesis: [
       'Liquidity is not a single number; it is an interaction between policy rates, balance sheet mechanics, dealer capacity, and treasury cash decisions. Most macro errors occur when investors focus on only one of these channels.',
       'Our base case is a stop-start easing environment where broad conditions are supportive but punctuated by temporary funding squeezes. Portfolio construction should therefore favor resilient carry, optional hedges, and pre-defined rebalance triggers.'
