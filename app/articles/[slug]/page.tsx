@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { ArticleLayout } from '@/components/ArticleLayout';
 import { publicArticles } from '@/lib/content';
+import { siteStrings } from '@/src/strings';
 
 interface Props {
   params: { slug: string };
@@ -17,7 +18,7 @@ export function generateMetadata({ params }: Props): Metadata {
     return {};
   }
   return {
-    title: `${article.title} | Macro Notes`,
+    title: `${article.title} | ${siteStrings.siteName}`,
     description: article.summary
   };
 }
@@ -31,14 +32,14 @@ export default function ArticlePage({ params }: Props) {
   return (
     <ArticleLayout title={article.title} date={article.date}>
       <section>
-        <h2 className="mb-2 text-2xl font-semibold">Thesis</h2>
+        <h2 className="mb-2 text-2xl font-semibold">{siteStrings.sections.thesis}</h2>
         {article.thesis.map((item) => (
           <p key={item}>{item}</p>
         ))}
       </section>
 
       <section>
-        <h2 className="mb-2 text-2xl font-semibold">Signals</h2>
+        <h2 className="mb-2 text-2xl font-semibold">{siteStrings.sections.signals}</h2>
         <ul className="list-disc space-y-2 pl-6">
           {article.signals.map((item) => (
             <li key={item}>{item}</li>
@@ -47,7 +48,7 @@ export default function ArticlePage({ params }: Props) {
       </section>
 
       <section>
-        <h2 className="mb-2 text-2xl font-semibold">Scenarios</h2>
+        <h2 className="mb-2 text-2xl font-semibold">{siteStrings.sections.scenarios}</h2>
         <ul className="list-disc space-y-2 pl-6">
           {article.scenarios.map((item) => (
             <li key={item}>{item}</li>
@@ -56,7 +57,7 @@ export default function ArticlePage({ params }: Props) {
       </section>
 
       <section>
-        <h2 className="mb-2 text-2xl font-semibold">Risks</h2>
+        <h2 className="mb-2 text-2xl font-semibold">{siteStrings.sections.risks}</h2>
         <ul className="list-disc space-y-2 pl-6">
           {article.risks.map((item) => (
             <li key={item}>{item}</li>
