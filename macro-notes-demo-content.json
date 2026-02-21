@@ -1,0 +1,115 @@
+{
+  "freePreviews": [
+    {
+      "title": "Dollar Liquidity Watch: Cross-Currency Basis Still Doing the Talking",
+      "subtitle": "A short framework for reading funding stress before it appears in broad risk assets",
+      "publishDate": "2026-03-04",
+      "authorByline": "Macro Notes Research Desk",
+      "summary": "Global risk sentiment has stabilized, but short-end dollar funding indicators remain uneven across regions. In this educational demo note, we outline why cross-currency basis, front-end OIS pricing, and dealer balance-sheet capacity still matter for tactical macro positioning.",
+      "keyBullets": [
+        "EUR and JPY basis moves continue to lead shifts in broad FX carry appetite by several sessions.",
+        "Policy-rate path repricing has been concentrated in the front end, while term premium remains sticky.",
+        "Credit spreads are stable at the index level, but primary market pricing shows selective caution.",
+        "Duration can still work in growth scares, yet liquidity conditions increase gap risk around data events."
+      ],
+      "tags": ["liquidity", "FX", "policy rates", "funding markets", "demo"],
+      "slug": "dollar-liquidity-watch-cross-currency-basis"
+    },
+    {
+      "title": "Carry vs Duration in a Late-Cycle Policy Pause",
+      "subtitle": "How to think about income trades when central banks are data dependent",
+      "publishDate": "2026-03-11",
+      "authorByline": "Elena Markovic, Macro Strategist",
+      "summary": "As policy rates approach a plateau, the balance between carry harvesting and duration extension becomes more path dependent. This preview is for demonstration and education only, highlighting scenario analysis rather than directional certainty.",
+      "keyBullets": [
+        "Real-rate volatility has fallen, but inflation-services persistence limits confidence in rapid easing cycles.",
+        "Carry remains attractive where funding costs are stable and FX volatility is contained.",
+        "Long duration is most effective when labor-market softening is broad, not headline-driven.",
+        "A blended approach can reduce drawdown sensitivity to one-way policy repricing."
+      ],
+      "tags": ["carry", "duration", "policy rates", "rates volatility", "educational"],
+      "slug": "carry-vs-duration-late-cycle-policy-pause"
+    },
+    {
+      "title": "Credit Spreads and the Myth of Calm",
+      "subtitle": "Why index-level stability can mask refinancing pressure",
+      "publishDate": "2026-03-18",
+      "authorByline": "Daniel Reyes, Credit & Macro",
+      "summary": "Headline investment-grade and high-yield spreads suggest benign conditions, yet issuer-level financing terms are diverging. This demo preview explains how to monitor refinancing walls, covenant quality, and liquidity depth without implying guaranteed outcomes.",
+      "keyBullets": [
+        "Secondary spreads are compressed, but new-issue concessions remain elevated in lower-quality cohorts.",
+        "Private credit competition is tightening terms in some segments while public markets stay selective.",
+        "Default rates are lagging indicators; maturity profiles and interest coverage provide earlier signals.",
+        "Macro shock transmission is faster when dealer inventories are thin during risk-off sessions."
+      ],
+      "tags": ["credit spreads", "refinancing", "liquidity", "risk management", "demo"],
+      "slug": "credit-spreads-and-the-myth-of-calm"
+    }
+  ],
+  "premiumReports": [
+    {
+      "title": "Global Policy Rates Playbook: Sequencing Cuts Without Chasing Noise",
+      "subtitle": "A full institutional framework for mapping central-bank reaction functions across DM and EM",
+      "publishDate": "2026-03-21",
+      "authorByline": "Macro Notes Strategy Team",
+      "summary": "This full report builds a cross-market matrix for policy-rate sequencing, combining inflation composition, labor elasticity, and fiscal impulse. Prepared as demo content for Macro Notes, it is educational in nature and does not constitute investment advice or performance guarantees.",
+      "keyBullets": [
+        "Reaction-function dispersion is widening: similar inflation prints are producing different policy outcomes.",
+        "Front-end curves underprice pause risk in economies with sticky services inflation.",
+        "EM easing capacity depends more on FX pass-through and reserve adequacy than headline CPI alone.",
+        "Duration allocations should be staggered around labor and wage inflection points, not calendar expectations.",
+        "Scenario probabilities are updated via a policy-signal scorecard rather than single-data surprises."
+      ],
+      "tags": ["policy rates", "duration", "DM", "EM", "macro framework"],
+      "slug": "global-policy-rates-playbook-sequencing-cuts"
+    },
+    {
+      "title": "FX Carry Under Constraint: When Volatility Regimes Break the Backtest",
+      "subtitle": "Integrating implied vol, reserve dynamics, and balance-of-payments fragility into carry selection",
+      "publishDate": "2026-03-28",
+      "authorByline": "Sofia Klein, FX & Liquidity Research",
+      "summary": "Carry strategies remain structurally relevant, but return quality depends on volatility regime shifts and policy credibility. This premium demo report focuses on risk-adjusted implementation principles for institutional users and should be read as educational material only.",
+      "keyBullets": [
+        "High nominal carry is vulnerable when reserve drawdowns and election risk coincide.",
+        "Implied/realized volatility gaps can identify crowded carry exposures before unwind phases.",
+        "Cross-asset confirmation from local rates and credit spreads improves signal quality.",
+        "Hedging overlays should be dynamic, with trigger levels tied to basis and liquidity metrics.",
+        "Position sizing discipline is more important than maximizing carry in late-cycle conditions."
+      ],
+      "tags": ["FX", "carry", "volatility", "reserves", "risk control"],
+      "slug": "fx-carry-under-constraint-volatility-regimes"
+    },
+    {
+      "title": "Liquidity Transmission and Credit Spreads: A Macro-Micro Bridge",
+      "subtitle": "From central-bank balance sheets to issuer funding costs in one operating framework",
+      "publishDate": "2026-04-02",
+      "authorByline": "A. Patel, Multi-Asset Credit Strategy",
+      "summary": "We connect system liquidity indicators to credit-spread behavior across investment grade, high yield, and private channels. This is a demonstration report for platform testing, designed for educational use without any promise of specific returns.",
+      "keyBullets": [
+        "Reserve drainage episodes tend to affect lower-rated refinancing windows first, then broader indices.",
+        "Dealer balance-sheet constraints amplify spread moves during macro data shocks.",
+        "Primary market concessions and failed deal ratios are earlier stress markers than defaults.",
+        "Sector dispersion rises when liquidity is scarce, rewarding bottom-up credit selection.",
+        "A liquidity-adjusted spread model improves tactical entry timing but remains probabilistic."
+      ],
+      "tags": ["liquidity", "credit spreads", "high yield", "funding", "institutional"],
+      "slug": "liquidity-transmission-and-credit-spreads"
+    },
+    {
+      "title": "Duration Allocation in a Fragmented Cycle",
+      "subtitle": "Managing curve exposure when growth, inflation, and fiscal supply send mixed signals",
+      "publishDate": "2026-04-09",
+      "authorByline": "Marcus Iversen, Rates Research",
+      "summary": "This report presents a practical duration-allocation process under conflicting macro signals, with emphasis on term premium, issuance pressure, and policy uncertainty. Produced as premium demo content, it is informational and educational and is not a recommendation or guarantee.",
+      "keyBullets": [
+        "Curve steepening risk rises when fiscal supply surprises coincide with delayed policy easing.",
+        "Long-end duration performs best when growth deceleration is synchronized across regions.",
+        "Breakeven behavior helps distinguish inflation fear from real-rate repricing.",
+        "Barbell duration structures can reduce regret in high-uncertainty policy windows.",
+        "Risk budgeting should include liquidity buffers for event-driven rate volatility."
+      ],
+      "tags": ["duration", "yield curve", "term premium", "policy uncertainty", "rates"],
+      "slug": "duration-allocation-in-a-fragmented-cycle"
+    }
+  ]
+}
